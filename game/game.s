@@ -1,4 +1,3 @@
-// number_game_arm.s - Interactive Number Guessing Game
 // ARM64 version for Apple Silicon Macs
 
 .section __TEXT,__text
